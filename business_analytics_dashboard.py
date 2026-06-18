@@ -596,13 +596,12 @@ Journal of Database Marketing & Customer Strategy.
 BSA83111 - Data Visualization for Decision Making
 
 Assessment: E-Commerce Sales Dashboard (Final)
-
 Group 7 Members: 
 Jacques Rebero (Leader) 
 Eric Nshimiye
 Steven Ndacyarikumukiza 
 Gisele Musabuwera
-========================================================================
+
 This Streamlit app provides and interactive dashboard for analyzing the UCI online retail dataset. It includes key sales metrics, dynamic filters, and visualizations to help business stakeholders understand sales trends, product performance, and customer behavior.
     """)
 
